@@ -1,0 +1,14 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "title": "Project One",
+        "description": "A brief description of Project One.",
+        "image": "https://example.com/images/project1.jpg",
+        "link": "https://example.com/project-one"
+      }
+      
+    ],
+    "totalPages": 5
+  }
+  
